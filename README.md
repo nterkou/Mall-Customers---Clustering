@@ -43,23 +43,23 @@ Segmentation enables more tailored approaches depending on customer behavior
 Can support decision-making in areas such as targeting, retention, and budget allocation
 
 ## Marketing Strategy
-Cluster 0: Young impulsive spenders
+* Cluster 0: Young impulsive spenders
 Flash sales and limited-time offers
 Social media and influencer-driven campaigns
 Trend-based marketing strategies
-Cluster 1: Average middle-class customers
+* Cluster 1: Average middle-class customers
 Loyalty programs and retention campaigns
 Personalized promotions
 Seasonal and value-based offers
-Cluster 2: High-income conservative spenders
+* Cluster 2: High-income conservative spenders
 Premium positioning and value-focused messaging
 Exclusive but rational offers
 Trust-building and brand credibility
-Cluster 3: Young active shoppers
+* Cluster 3: Young active shoppers
 Membership programs and rewards
 Product bundles and upselling strategies
 Frequent buyer incentives
-Cluster 4: Very wealthy but inactive customers
+* Cluster 4: Very wealthy but inactive customers
 Luxury experiences and personalized services
 VIP programs and exclusivity-driven engagement
 High-touch, relationship-based marketing
