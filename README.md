@@ -70,8 +70,4 @@ Machine Learning: Scikit-learn (K-means, Silhouette Score)
 Visualization: Matplotlib, Seaborn
 
 ## Key Takeaway
-<<<<<<< HEAD
 This project demonstrates how unsupervised learning can be used to uncover structure in unlabeled data, providing a foundation for more informed decision-making.
-=======
-This project demonstrates how unsupervised learning can be used to uncover structure in unlabeled data, providing a foundation for more informed decision-making.
->>>>>>> 67d04da (update)
